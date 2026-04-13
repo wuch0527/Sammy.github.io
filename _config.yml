@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "吴加林"
-description              : "一个有接近30年的IT从业经验的"
+description              : "一个有接近 30 年的 IT 从业经验的智能制造 / MES 系统工程师"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "吴加林"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "上海交通大学"
-  location         : "上海, 中国"
+  bio              : "智能制造领域资深技术专家"
+  location         : "厦门, 中国"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
