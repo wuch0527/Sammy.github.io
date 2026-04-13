@@ -39,9 +39,7 @@ redirect_from:
 数据库：SQL Server、Oracle、MySQL、PostgreSQL，精通数据库性能优化与大数据量处理
 前端技术：HTML/CSS/JavaScript、WinForm、WPF，可独立完成桌面端与 Web 端系统开发
 其他：Git 版本控制、Jekyll 静态站点、Docker 容器化、需求分析与文档编写
-语言能力：
-英语：CET-6 水平，具备优秀的技术文档阅读、翻译与国际技术交流能力，可独立对接海外设备厂商
-普通话：二级甲等，表达流畅，具备优秀的技术培训与方案宣讲能力
+
 
 
 # 📁 项目经历
