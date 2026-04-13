@@ -3,13 +3,13 @@ main:
   - title: "个人简介"
     url: "/#about-me"
 
-  - title: "新闻"
+  - title: "行业动态"
     url: "/#-news"
 
-  - title: "专业学习"
+  - title: "专业技能"
     url: "/#-publications"
 
-  - title: "实习经历"
+  - title: "项目经历"
     url: "/#-internships"
 
   - title: "荣誉与奖项"
@@ -18,5 +18,5 @@ main:
   - title: "教育经历"
     url: "/#-educations"
 
-  - title: "特邀报告"
+  - title: "技术分享"
     url: "/#-invited-talks"
